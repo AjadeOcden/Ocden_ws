@@ -8,7 +8,8 @@
                 <div class="shrink-0 flex items-center">
                     <a href="{{ route('dashboard') }}">
                         {{-- Replace with image or name --}}
-                        <img src="{{ asset('images/logo.png') }}" alt="Logo" class="h-10">
+                        <img src="{{ asset('images/logo.png') }}" alt="Logo" class="h-8 w-auto">
+
                     </a>
                 </div>
 
